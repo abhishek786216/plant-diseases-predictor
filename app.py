@@ -5,7 +5,7 @@ import cv2
 from PIL import Image
 
 # Load TFLite model
-interpreter = tf.lite.Interpreter(model_path="crop_disease_model.tflite")  # Remove leading slash
+interpreter = tf.lite.Interpreter(model_path="plant_disease_model.tflite")  # Remove leading slash
 interpreter.allocate_tensors()
 
 # Get input and output details
