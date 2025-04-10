@@ -1,4 +1,4 @@
-# 🌿 Crop Disease Prediction App
+# 🌿 Crop Disease Prediction Web page
 
 This is a **Streamlit web app** that detects plant leaf diseases from images using a **TensorFlow Lite model**. Upload an image of a leaf, and the app will predict the disease (if any) with confidence.
 
