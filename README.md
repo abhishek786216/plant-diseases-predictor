@@ -51,7 +51,4 @@ You can test the app using:
 
 No need to upload anything manually!
 
----
-
-## 📁 Project Structure
 
