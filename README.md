@@ -2,7 +2,7 @@
 
 This is a **Streamlit web app** that detects plant leaf diseases from images using a **TensorFlow Lite model**. Upload an image of a leaf, and the app will predict the disease (if any) with confidence.
 
-🔗 **Live Demo**: https://plant-diseases-predictor.streamlit.app/*(Add your deployed app link here once available)*
+🔗 **Live Demo**: https://plant-diseases-predictor.streamlit.app/
 
 ---
 
